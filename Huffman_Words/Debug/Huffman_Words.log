@@ -1,0 +1,3 @@
+﻿  source.cpp
+C:\Users\user\Desktop\Huffman_Words\Huffman_Words\source.cpp(209,21): warning C4018: '<': signed/unsigned mismatch
+  Huffman_Words.vcxproj -> C:\Users\user\Desktop\Huffman_Words\Debug\Huffman_Words.exe

@@ -1,0 +1,7 @@
+﻿  source.cpp
+C:\Users\user\Desktop\Huffman_Words\Huffman_Words\source.cpp(209,21): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 648 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Huffman_Words.vcxproj -> C:\Users\user\Desktop\Huffman_Words\Release\Huffman_Words.exe
